@@ -31,6 +31,11 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Orientation</td>
       <td>How to use linkedIn Social media plateform</td>
     </tr>
+      <tr>
+       <td>Day 02: Wednesday, [08/01/2025]</td>
+      <td>Ms word</td>
+      <td>Home and Insert Section</td>
+    </tr>
   </tbody>
 </table>
 
