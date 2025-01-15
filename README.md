@@ -36,6 +36,12 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Ms word</td>
       <td>Home and Insert Section</td>
     </tr>
+  <tr>
+       <td>Day 03: Wednesday, [15/01/2025]</td>
+      <td>Ms word</td>
+      <td>Design , Draw , Layout and Reference Section</td>
+    </tr>
+    
   </tbody>
 </table>
 
