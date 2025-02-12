@@ -47,7 +47,8 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Reference , Mailing Section</td>
     </tr>
      <tr>
-       <td>Day 06: Wednesday, [05/02/2025]</td>
+       <td>Day 05: Wednesday, [05/02/2025]</td>
+       <td>OFF Day </td>
        <td>OFF Day </td>
     </tr>
      <tr>
