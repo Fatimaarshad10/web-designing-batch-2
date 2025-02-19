@@ -56,7 +56,11 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Ms Excel</td>
       <td>Home menu , formulas</td>
     </tr>
-    
+    <tr>
+       <td>Day 07: Wednesday, [19/02/2025]</td>
+      <td>Ms Excel</td>
+      <td>Insert Pivot table & CountIf , SumIf , vLookup , SubTotal</td>
+    </tr>
   </tbody>
 </table>
 
