@@ -66,7 +66,6 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Ms Excel</td>
       <td>Data section , sort , filter  , consolidate , scenario management</td>
     </tr>
-    </tr>
 
   </tbody>
 </table>
