@@ -71,6 +71,11 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Html</td>
       <td>Structure Layout , Paragraph , Heading , Bold , Anchor Tag </td>
     </tr>
+    <tr>
+       <td>Day 10: Wednesday, [12/03/2025]</td>
+      <td>Html</td>
+      <td>Lists , table , form , path </td>
+    </tr>
 
   </tbody>
 </table>
