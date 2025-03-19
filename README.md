@@ -76,7 +76,11 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Html</td>
       <td>Lists , table , form , path </td>
     </tr>
-
+    <tr>
+       <td>Day 11: Wednesday, [19/03/2025]</td>
+      <td>Web designing Mid Test</td>
+      <td>30 mcqs , ms word pdf or powerpoint ppt </td>
+    </tr>
   </tbody>
 </table>
 
