@@ -81,6 +81,11 @@ Welcome to the Web Designing Batch 02 course! This 3-month course will cover ess
       <td>Web designing Mid Test</td>
       <td>30 mcqs , ms word pdf or powerpoint ppt </td>
     </tr>
+      <tr>
+       <td>Day 12: Wednesday, [26/03/2025]</td>
+      <td>Html & CSS</td>
+      <td>Inline and internal styling (background color , color , margin , padding , border)</td>
+    </tr>
   </tbody>
 </table>
 
